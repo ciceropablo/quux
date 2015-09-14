@@ -1,0 +1,31 @@
+{
+  "name": "quux",
+  "version": "0.0.0",
+  "description": "A quux module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciceropablo/quux.git"
+  },
+  "keywords": [
+    "foo",
+    "bar",
+    "baz",
+    "qux",
+    "quux",
+    "foobar"
+  ],
+  "author": {
+    "name": "Cícero Pablo",
+    "email": "cicero.pablos@gmail.com",
+    "url": "ciceropablo.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciceropablo/quux/issues"
+  },
+  "homepage": "https://github.com/ciceropablo/quux#readme"
+}
