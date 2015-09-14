@@ -4,7 +4,8 @@
   "description": "A quux module.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "jshint ./*.js",
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/ciceropablo/quux/issues"
   },
-  "homepage": "https://github.com/ciceropablo/quux#readme"
+  "homepage": "https://github.com/ciceropablo/quux#readme",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  }
 }
