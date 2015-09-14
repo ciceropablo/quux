@@ -1,4 +1,4 @@
-## quux
+## quux [![Build Status](https://travis-ci.org/ciceropablo/quux.svg?branch=master)](https://travis-ci.org/ciceropablo/quux)
 > A quux module.
 
 ## Installation
