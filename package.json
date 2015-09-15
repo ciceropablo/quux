@@ -1,6 +1,6 @@
 {
   "name": "quux",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A quux module.",
   "main": "index.js",
   "scripts": {
