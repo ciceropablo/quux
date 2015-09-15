@@ -4,13 +4,13 @@
 ## Installation
 
 ```sh
-$ [sudo] npm install -g quux
+$ [sudo] npm install --save quux
 ```
 
 ## Usage
 
 ```js
-var quux = require('./');
+var quux = require('quux');
 
 quux(); // quux
 ```
